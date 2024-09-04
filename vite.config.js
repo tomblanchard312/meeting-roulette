@@ -5,7 +5,7 @@ import path from 'path'
 
 export default defineConfig({
   plugins: [react()],
-  base: 'https://github.com/tomblanchard312/MeetingRoulette',
+  base: 'https://github.com/tomblanchard312/meeting-roulette',
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src'),
