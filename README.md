@@ -26,7 +26,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/meeting-roulette.git
+   git clone https://github.com/tomblanchard312/meeting-roulette.git
    cd meeting-roulette
    ```
 
