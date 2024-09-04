@@ -65,7 +65,7 @@ This will generate a `dist` folder with the production-ready files.
 2. Update your `package.json`:
    - Add the homepage property:
      ```json
-     "homepage": "https://<your-github-username>.github.io/meeting-roulette",
+     "homepage": "https://tomblanchard312.github.io/meeting-roulette",
      ```
    - Add deployment scripts:
      ```json
